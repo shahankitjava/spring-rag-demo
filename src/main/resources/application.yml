@@ -1,7 +1,3 @@
 spring:
   application:
     name: spring-rag-demo
-  datasource:
-    url: jdbc:postgresql://localhost:5432/postgres
-    username: <username>
-    password: <password>
